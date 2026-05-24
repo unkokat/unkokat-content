@@ -3,7 +3,7 @@
     "filename": "Absol.webp",
     "url": "https://img.unkokat.com/Absol.webp",
     "title": "Absol",
-    "category": "Artwork",
+    "category": "Other",
     "tags": [
       "#animation"
     ]
@@ -31,7 +31,9 @@
     "url": "https://img.unkokat.com/Artwork.png",
     "title": "Artwork",
     "category": "Artwork",
-    "tags": []
+    "tags": [
+      "#fanart"
+    ]
   },
   {
     "filename": "Artwork1.png",
@@ -75,7 +77,8 @@
     "title": "Artwork4Animated",
     "category": "Artwork",
     "tags": [
-      "#commission"
+      "#commission",
+      "#animation"
     ]
   },
   {
@@ -119,34 +122,44 @@
     "url": "https://img.unkokat.com/Blasphemous.png",
     "title": "Blasphemous",
     "category": "Artwork",
-    "tags": []
+    "tags": [
+      "#fanart"
+    ]
   },
   {
     "filename": "Charizard.png",
     "url": "https://img.unkokat.com/Charizard.png",
     "title": "Charizard",
     "category": "Artwork",
-    "tags": []
+    "tags": [
+      "#oc",
+      "#design"
+    ]
   },
   {
     "filename": "Glaceon.webp",
     "url": "https://img.unkokat.com/Glaceon.webp",
     "title": "Glaceon",
     "category": "Artwork",
-    "tags": []
+    "tags": [
+      "#oc",
+      "#design"
+    ]
   },
   {
     "filename": "Gourgeist.png",
     "url": "https://img.unkokat.com/Gourgeist.png",
     "title": "Gourgeist",
     "category": "Artwork",
-    "tags": []
+    "tags": [
+      "#oc"
+    ]
   },
   {
     "filename": "Icon1.png",
     "url": "https://img.unkokat.com/Icon1.png",
     "title": "Icon1",
-    "category": "Artwork",
+    "category": "Icon",
     "tags": [
       "#commission"
     ]
@@ -155,7 +168,7 @@
     "filename": "Icon2.png",
     "url": "https://img.unkokat.com/Icon2.png",
     "title": "Icon2",
-    "category": "Artwork",
+    "category": "Icon",
     "tags": [
       "#commission"
     ]
@@ -164,7 +177,7 @@
     "filename": "IconOC1.png",
     "url": "https://img.unkokat.com/IconOC1.png",
     "title": "IconOC1",
-    "category": "Artwork",
+    "category": "Icon",
     "tags": [
       "#commission"
     ]
@@ -173,7 +186,7 @@
     "filename": "IconOC2.png",
     "url": "https://img.unkokat.com/IconOC2.png",
     "title": "IconOC2",
-    "category": "Artwork",
+    "category": "Icon",
     "tags": [
       "#commission"
     ]
@@ -182,7 +195,7 @@
     "filename": "IconOC3.png",
     "url": "https://img.unkokat.com/IconOC3.png",
     "title": "IconOC3",
-    "category": "Artwork",
+    "category": "Icon",
     "tags": [
       "#commission"
     ]
@@ -191,7 +204,7 @@
     "filename": "IconOC4.png",
     "url": "https://img.unkokat.com/IconOC4.png",
     "title": "IconOC4",
-    "category": "Artwork",
+    "category": "Icon",
     "tags": [
       "#commission"
     ]
@@ -200,7 +213,7 @@
     "filename": "IconOC5.png",
     "url": "https://img.unkokat.com/IconOC5.png",
     "title": "IconOC5",
-    "category": "Artwork",
+    "category": "Icon",
     "tags": [
       "#commission"
     ]
@@ -209,7 +222,7 @@
     "filename": "IconOC6.png",
     "url": "https://img.unkokat.com/IconOC6.png",
     "title": "IconOC6",
-    "category": "Artwork",
+    "category": "Icon",
     "tags": [
       "#commission"
     ]
@@ -218,7 +231,7 @@
     "filename": "IconOC7.png",
     "url": "https://img.unkokat.com/IconOC7.png",
     "title": "IconOC7",
-    "category": "Artwork",
+    "category": "Icon",
     "tags": [
       "#commission"
     ]
@@ -228,21 +241,29 @@
     "url": "https://img.unkokat.com/Meowscarada.png",
     "title": "Meowscarada",
     "category": "Artwork",
-    "tags": []
+    "tags": [
+      "#oc",
+      "#design"
+    ]
   },
   {
     "filename": "Meowscarada2.png",
     "url": "https://img.unkokat.com/Meowscarada2.png",
     "title": "Meowscarada2",
     "category": "Artwork",
-    "tags": []
+    "tags": [
+      "#commission",
+      "#oc"
+    ]
   },
   {
     "filename": "Mimikyyu.png",
     "url": "https://img.unkokat.com/Mimikyyu.png",
     "title": "Mimikyyu",
     "category": "Artwork",
-    "tags": []
+    "tags": [
+      "#oc"
+    ]
   },
   {
     "filename": "NeeraLi.webp",
@@ -250,7 +271,8 @@
     "title": "NeeraLi",
     "category": "Artwork",
     "tags": [
-      "#commission"
+      "#commission",
+      "#animation"
     ]
   },
   {
@@ -259,7 +281,7 @@
     "title": "Pheromosa",
     "category": "Artwork",
     "tags": [
-      "#commission"
+      "#oc"
     ]
   },
   {
@@ -267,7 +289,9 @@
     "url": "https://img.unkokat.com/Ralsei.png",
     "title": "Ralsei",
     "category": "Artwork",
-    "tags": []
+    "tags": [
+      "#fanart"
+    ]
   },
   {
     "filename": "Zoroark.png",
@@ -283,6 +307,9 @@
     "url": "https://img.unkokat.com/pheromosa_.png",
     "title": "pheromosa_",
     "category": "Artwork",
-    "tags": []
+    "tags": [
+      "#oc",
+      "#design"
+    ]
   }
 ]
